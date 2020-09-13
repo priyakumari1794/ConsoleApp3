@@ -6,7 +6,7 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Zensar");
+            Console.WriteLine("Welcome to Zensar Technologies");
         }
     }
 }
